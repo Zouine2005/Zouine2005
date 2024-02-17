@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 200px; height: 200px; margin-top: 20px;">
+  <img src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 300px; height: 300px; margin-top: 20px;">
 </div>
 
 - 🔭 I am currently seeking employment :computer:

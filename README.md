@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 300px; height: 300px; margin-top: 20px;">
-</div>
+  <img src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 400px; height: 300px;border: 5px solid black; margin-top: 20px;">
+</div>       
+
+<br><br><br>
 
 - 🔭 I am currently seeking employment :computer:
 - 🌱 I am presently learning WordPress

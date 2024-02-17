@@ -1,9 +1,6 @@
 ### Hi there 👋
-<img width="442" alt="Capture" src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c">
-<!--
-**Zouine2005/Zouine2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="442" alt="Capture" src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" >
 
-Here are some ideas to get you started:-->
 
 - 🔭 I am currently seeking employment :computer:
 - 🌱 I am presently learning WordPress

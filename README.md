@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zouine Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 400px; height: 400px; border: 5px solid #ffffff; margin-top: 20px;" >
 <p align="left"> <a href="https://twitter.com/mohamadezouine" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadezouine?logo=twitter&style=for-the-badge" alt="mohamadezouine" /></a> </p>
 

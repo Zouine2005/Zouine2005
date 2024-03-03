@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React.js, C, JS, CSS, Python**
 
-- 📫 How to reach me **zouinemohamade@gmail.com**
-
 - ⚡ Fun fact **I am falling in love with Python**
 <br>
 <h3 align="left">Connect with me:</h3>

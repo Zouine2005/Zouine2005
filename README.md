@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Suivi-stage**
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **React.js, C, JS, CSS, Python**
 

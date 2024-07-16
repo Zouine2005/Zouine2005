@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, C, JS, CSS, Python**
 
-- ⚡ Fun fact **I am falling in love with Python**
+- ⚡ Fun fact **I am falling in love with JS**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

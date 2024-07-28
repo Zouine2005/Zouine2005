@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat-App**
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **React.js, C, JS, CSS, Python**
 

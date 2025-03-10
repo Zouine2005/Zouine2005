@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/Zouine2005/Zouine2005/assets/116282684/2990596d-fc32-4a76-8848-285c329cf80c" alt="Capture" style="border-radius: 50%; width: 400px; height: 400px; border: 5px solid #ffffff; margin-top: 20px;" >
 <p align="left"> <a href="https://twitter.com/mohamadezouine" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadezouine?logo=twitter&style=for-the-badge" alt="mohamadezouine" /></a> </p>
 
-- 🔭 I’m currently working on **Detection_URL**
+- 🔭 I’m currently working on **Agri_Tech**
 
 - 🌱 I’m currently learning **node js**
 

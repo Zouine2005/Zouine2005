@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Skills:</h2>
 
 ###
 

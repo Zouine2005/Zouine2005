@@ -108,7 +108,7 @@
   <a href="https://stackoverflow.com/users/22302553/mohamed-zouine" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="40" alt="stackoverflow logo" />
   </a>
-  <a href="mailto:mohamedzouine@gmail.com">
+  <a href="mailto:zouinemohamade@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo" />
   </a>
 </div>

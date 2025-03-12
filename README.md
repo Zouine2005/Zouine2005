@@ -16,6 +16,12 @@
 
 ###
 
+###
+
+<h2 align="center">Connect with me:</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
